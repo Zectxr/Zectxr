@@ -8,6 +8,7 @@
  - I'm currently a freshman information technology
 # How to reach me?
 Discord: Zec#5945
+Twitter: https://twitter.com/ZecTorPlayer
 
 <!---
 Zectxr/Zectxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
