@@ -1,8 +1,11 @@
-# Greetings my name is Zec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Greetings my code-name is Zec
+ - Acronym "Bunny" have a talent for cunning and speed. in order to escape a predator
+# What I'm learning?
+ - I'm both using java and python
+# Experiences
+ - I'm currently a freshman information technology
+# How to reach me?
+Discord: Zec#5945
 
 <!---
 Zectxr/Zectxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
