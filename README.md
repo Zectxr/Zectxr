@@ -1,4 +1,4 @@
-# Greetings my code-name is Zec
+# Greetings my code name is Zec
  - Acronym "Bunny" have a talent for cunning and speed. in order to escape a predator
 # What I'm learning?
  - I'm both using java and python
