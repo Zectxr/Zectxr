@@ -4,6 +4,9 @@
  - And my purpose is coding and create something that can help society (World Domination)
 # What I'm learning?
  - I'm both using java and python
+ - 3 years experience of javascript
+ - 1 years of java!
+ - 2 years of python!
 # Experiences
  - I'm currently a freshman information technology
 # How to reach me?
