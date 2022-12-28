@@ -13,14 +13,9 @@
       /    `. ". ) /' )
      Y       )( / /(,/
     ,|      /     )
-   ( |     /     /
-    " \_  (__   (__        [nabis]
+    ( |     /     /
+    " \_  (__   (__  
         "-._,)--._,)
-
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=animals/rabbits
 
 # Greetings my code name is Zec
  - Acronym "Bunny" have a talent for cunning and speed. in order to escape a predator
