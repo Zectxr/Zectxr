@@ -19,7 +19,8 @@
 
 # Greetings my code name is Zec
  - I'm 20
- - And my purpose is coding and create something that can help society (World Domination)
+# Background
+- Ive been coding since I was on my 6th grade making minecraft clients over 2 years which is javascript on this channel [here](https://www.youtube.com/watch?v=eue1Hhog8ZM)
 # What I'm learning?
  - I'm both using java and python
  - 3 years experience of javascript
