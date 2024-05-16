@@ -20,7 +20,8 @@
 # Greetings my code name is Zec
  - I'm 20
 # Background
-- Ive been coding since I was on my 6th grade making minecraft clients over 2 years which is javascript on this channel [here](https://www.youtube.com/watch?v=eue1Hhog8ZM)
+- Ive been coding since I was on my 6th grade making minecraft clients over 2 years which is javascript on this channel [here](https://www.youtube.com/watch?v=eue1Hhog8ZM) I've contantly immproving every day as my logic regarding coding and critical thinking also have been improve and after colleage it boost me alot exploring alot of coding stuff and exprimenting stuff giving specially database as ive learn there about how to do cleanign data and how to make my own panel
+- What's most intrigue about myself is that i've been purusing reverse engineering **legally** as I could not just not earn money but also help and improve my critical thinking... also machine learning as I wanna see an a.i that improve himself everyday and giving him alot of data 
 # What I'm learning?
  - I'm both using java and python
  - 3 years experience of javascript
