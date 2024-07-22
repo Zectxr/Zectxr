@@ -32,7 +32,7 @@
  - 1 years of java!
  - 2 years of python!
 # Experiences
- - I'm currently a freshman information technology
+ - I'm currently a 3rd year information technology student
 # How to reach me?
  - Discord: Zec#5945
 - Twitter: https://twitter.com/ZecTorPlayer
