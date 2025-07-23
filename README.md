@@ -50,6 +50,7 @@
  - I'm both using java and python
  - 3 years experience of javascript
  - 3 years of java!
+ - 3 months React (never touch it again)
  - 2 years of python!
 # Experiences
  - I'm currently a 3rd year information technology student
