@@ -21,7 +21,7 @@
  - I'm 21
 # Background
 - I've been coding since I was in 6th grade, making Minecraft clients for over 2 years using JavaScript on this channel [here](https://www.youtube.com/watch?v=eue1Hhog8ZM) I've been constantly improving every day. After college, it boosted me a lot, educating me a lot of various coding topics and experiment with different technologies, especially databases, framework, other programming languages. There, I learned how to clean data and create my own panel using access, and learning react framework, machine learning. and learning about the AI techonology and learning about cyber awareness.
-- What's most intrigue about myself is that i've been automation. in short I like to make every daily task automation making my life easy without doing anything rather just make my own code and do other task. is that bs? yes 100% because i wanna make sure everything not just my life but also my work to have a fast and effcient to make it faster. does that sound lazy? yes however being lazy does not mean a bad thing rather because ive solve everything that is hard and making something to make everything easy.  I call it a Productively lazy
+- What's most intrigue about myself is that i've been automation. in short I like to make every daily task automation making my life easy without doing anything rather just make my own code and do other task. is that a bad thing? yes 100% because i wanna make sure everything not just my life but also my work to have a fast and effcient to make it faster. does that sound lazy? yes however being lazy does not mean a bad thing rather because ive solve everything that is hard and making something to make everything easy.  I call it a Productively lazy
 
 # Languages and ToolS
 <p align="left"> 
