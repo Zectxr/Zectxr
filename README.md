@@ -53,7 +53,7 @@
  - 9 months React (i touch it again)
  - 2 years of python!
 # Experiences
- - I'm currently a 4rd year information technology student
+ - I'm currently a 4th year bachelor of science in information technology
 # How to reach me?
  - Discord: Zecdemise
 - Twitter: https://twitter.com/ZecTorPlayer
