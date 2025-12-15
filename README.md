@@ -51,7 +51,7 @@
  - 3 years experience of javascript
  - 3 years of java!
  - 9 months React (i touch it again)
- - 2 years of python!
+ - 4 years of python!
 # Experiences
  - I'm currently a 4th year bachelor of science in information technology
 # How to reach me?
