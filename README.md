@@ -18,7 +18,7 @@
         "-._,)--._,) 
 
 # Greetings my code name is Zec
- - I'm 21
+ - I'm 22
 # Background
 - I've been coding since I was in 6th grade, making Minecraft clients for over 2 years using JavaScript on this channel [here](https://www.youtube.com/watch?v=eue1Hhog8ZM) I've been constantly improving every day. After college, it boosted me a lot to be a better person and educate me of various coding topics and experiment with different technologies, especially databases, framework, other programming languages. There, I learned how to clean data and create my own software using access, and learning React framework, machine learning (markov chain). and learning about the AI techonology and learning about cyber awareness.
 - What's most intrigue about myself is that i've always like to do automation software. in short I like to make every daily task automation making my life easy without doing anything rather just make my own code and do other task. is that a bad thing? yes 100% because i wanna make sure everything not just my life but also my work to have a fast and effcient to make it faster. does that sound lazy? yes however being lazy does not mean a bad thing rather because ive solve everything that is hard and making something to make everything easy.  I call it a Productively lazy
