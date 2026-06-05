@@ -1,64 +1,113 @@
-                      .".
-                     /  |
-                    /  /
-                   / ,"
-       .-------.--- /
-      "._ __.-/ o. o\
-         "   (    Y  )
-              )     /
-             /     (                   ███████╗███████╗░█████╗░
-            /       Y                  ╚════██║██╔════╝██╔══██╗
-        .-"         |                  ░░███╔═╝█████╗░░██║░░╚═╝
-       /  _     \    \                 ██╔══╝░░██╔══╝░░██║░░██╗
-      /    `. ". ) /' )                ███████╗███████╗╚█████╔╝
-     Y       )( / /(,/                 ╚══════╝╚══════╝░╚════╝░
-    ,|      /     )
-    ( |     /     /
-    " \_  (__   (__  
-        "-._,)--._,) 
+<p align="center">
+  <img src="banner.jpg" alt="Zectxr Banner" width="100%"/>
+</p>
 
-# Greetings my code name is Zec
- - I'm 22
-# Background
-- I've been coding since I was in 6th grade, making Minecraft clients for over 2 years using JavaScript on this channel [here](https://www.youtube.com/@XinderModz) I've been constantly improving every day. After college, it boosted me a lot to be a better person and educate me of various coding topics and experiment with different technologies, especially databases, framework, other programming languages. There, I learned how to clean data and create my own software using access, and learning React framework, machine learning (markov chain). and learning about the AI techonology and learning about cyber awareness.
-- What's most intrigue about myself is that i've always like to do automation software. in short I like to make every daily task automation making my life easy without doing anything rather just make my own code and do other task. is that a bad thing? yes 100% because i wanna make sure everything not just my life but also my work to have a fast and effcient to make it faster. does that sound lazy? yes however being lazy does not mean a bad thing rather because ive solve everything that is hard and making something to make everything easy.  I call it a Productively lazy
+<h1 align="center">Hey there, I'm Zec</h1>
 
-# Languages and ToolS
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Automation+Enthusiast;Productively+Lazy;BSIT+4th+Year+Student;Always+Building+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-22-blueviolet?style=for-the-badge" alt="Age"/>
+  <img src="https://img.shields.io/badge/Focus-Automation-00D9FF?style=for-the-badge&logo=robot&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Learning+Always-7CFC00?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Mindset-Productively+Lazy-FF6B6B?style=for-the-badge" alt="Mindset"/>
+</p>
+
+---
+
+## About Me
+
+```diff
++ 22 years old · BSIT 4th year · coding since 6th grade
++ I automate daily tasks so life stays fast, efficient, and interesting
++ Minecraft client dev · React · ML · databases · cyber awareness
+```
+
+I've been coding since **6th grade**. I spent **2+ years** building Minecraft clients with JavaScript on my channel [**XinderModz**](https://www.youtube.com/@XinderModz), constantly improving every day.
+
+College pushed me further — databases, frameworks, new languages, clean data workflows, Access-based software, **React**, **machine learning** (Markov chains), **AI**, and **cyber awareness**.
+
+What intrigues me most? **Automation.** I love turning repetitive work into code so I can focus on harder problems. I call it being **productively lazy** — not avoiding work, but engineering smarter ways to get things done.
+
+---
+
+## Languages & Tools
+
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="48" height="48"/>
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+</p>
 
-# What I'm learning?
- - I'm both using java and python
- - 3 years experience of javascript
- - 3 years of java
- - 1 years React Framework
- - 5 years of python!
-# Experiences
- - I'm currently a 4th year bachelor of science in information technology
-# How to reach me?
- - Discord: Zecdemise
-- Twitter: https://twitter.com/ZecTorPlayer
+---
 
-<!---
-Zectxr/Zectxr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I'm Learning
+
+| Skill | Experience |
+| :--- | :--- |
+| **JavaScript** | 3 years |
+| **Java** | 3 years |
+| **Python** | 5 years |
+| **React** | 1 year |
+| **Automation & AI** | Always exploring |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zectxr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7CFC00&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zectxr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7CFC00" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## Experience
+
+> **4th Year** — Bachelor of Science in Information Technology
+
+---
+
+## Reach Me
+
+<p align="left">
+  <a href="https://twitter.com/ZecTorPlayer" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@ZecTorPlayer-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/@XinderModz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-XinderModz-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-Zecdemise-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zectxr&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Building automations. Learning daily. Making hard things easy.</i>
+</p>
