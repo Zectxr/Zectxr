@@ -26,7 +26,7 @@
 ```diff
 + 22 years old · BSIT 4th year · coding since 6th grade
 + I automate daily tasks so life stays fast, efficient, and interesting
-+ Minecraft client dev · React · ML · databases · cyber awareness
++ Former Minecraft client dev · React · ML · databases · cyber awareness · Python
 ```
 
 I've been coding since **6th grade**. I spent **2+ years** building Minecraft clients with JavaScript on my channel [**XinderModz**](https://www.youtube.com/@XinderModz), constantly improving every day.
