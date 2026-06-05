@@ -119,6 +119,7 @@ What intrigues me most? **Automation.** I love turning repetitive work into code
 ## Experience
 
 > Designed and developed an AI-powered POS System that provides profit tracking, sales analytics, and actionable business insights for business owners.
+
 > Conducted research on AI-powered sprite generation tools to help game developers create character graphics more efficiently.
 
 ---
