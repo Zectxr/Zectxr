@@ -78,10 +78,7 @@ What intrigues me most? **Automation.** I love turning repetitive work into code
 | **Automation & AI** | Always exploring |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zectxr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7CFC00&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Zectxr&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=7CFC00" alt="GitHub Streak" height="165"/>
-  </a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
 
 ---
