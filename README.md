@@ -17,7 +17,11 @@
 
 ---
 
-## About Me
+<div>
+<img src="cropcircle.png" width="300" align="right" />
+<br/>
+
+
 
 ```diff
 + 22 years old · BSIT 4th year · coding since 6th grade
@@ -30,6 +34,8 @@ I've been coding since **6th grade**. I spent **2+ years** building Minecraft cl
 College pushed me further by understanding databases, frameworks, new languages, clean data workflows, Access-based software, **React**, **machine learning** (Markov chains), **AI**, and **cyber awareness**.
 
 What intrigues me most? **Automation.** I love turning repetitive work into code so I can focus on harder problems. I call it being **productively lazy** not avoiding work, but engineering smarter ways to get things done.
+
+</div>
 
 ---
 
@@ -77,7 +83,36 @@ What intrigues me most? **Automation.** I love turning repetitive work into code
 | **React** | 1 year |
 | **Automation & AI** | Always exploring |
 
+---
 
+<div>
+<table>
+<tr>
+<td valign="top" width="65%">
+
+<h3>Repository</h3>
+<br/>
+
+- [***Zectxr/discord-token-checker***](https://github.com/Zectxr/discord-token-checker) <br/>
+  A modern React web app to verify Discord tokens and view detailed account information
+- [***Zectxr/Xyphra***](https://github.com/Zectxr/Xyphra) <br/>
+  A lightweight web tool to scan URLs and files for potential security threats
+
+<br/>
+
+<img src="picture.jpg" width="500" /><br/>
+
+<sub>*"Being productively lazy isn't avoiding work — it's engineering smarter ways to get things done." — Zec*</sub>
+
+</td>
+<td valign="middle" width="35%" align="right">
+
+<img src="onrightside.jpg" width="300" />
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
