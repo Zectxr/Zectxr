@@ -102,7 +102,7 @@ What intrigues me most? **Automation.** I love turning repetitive work into code
 
 <img src="picture.jpg" width="500" /><br/>
 
-<sub>*"Being productively lazy isn't avoiding work — it's engineering smarter ways to get things done." — Zec*</sub>
+<sub>*"Being productively lazy isn't avoiding work, it's engineering smarter ways to get things done." — Zec*</sub>
 
 </td>
 <td valign="middle" width="35%" align="right">
