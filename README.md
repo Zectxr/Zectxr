@@ -49,9 +49,9 @@
 # What I'm learning?
  - I'm both using java and python
  - 3 years experience of javascript
- - 3 years of java!
- - 9 months React (i touch it again)
- - 4 years of python!
+ - 3 years of java
+ - 1 years React Framework
+ - 5 years of python!
 # Experiences
  - I'm currently a 4th year bachelor of science in information technology
 # How to reach me?
