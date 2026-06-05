@@ -29,7 +29,7 @@ I've been coding since **6th grade**. I spent **2+ years** building Minecraft cl
 
 College pushed me further by understanding databases, frameworks, new languages, clean data workflows, Access-based software, **React**, **machine learning** (Markov chains), **AI**, and **cyber awareness**.
 
-What intrigues me most? **Automation.** I love turning repetitive work into code so I can focus on harder problems. I call it being **productively lazy** — not avoiding work, but engineering smarter ways to get things done.
+What intrigues me most? **Automation.** I love turning repetitive work into code so I can focus on harder problems. I call it being **productively lazy** not avoiding work, but engineering smarter ways to get things done.
 
 ---
 
