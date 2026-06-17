@@ -90,13 +90,13 @@ What intrigues me most? **Automation.** I love turning repetitive work into code
 <tr>
 <td valign="top" width="65%">
 
-<h3>Repository</h3>
+<h3>Big Project I made!!</h3>
 <br/>
 
-- [***Zectxr/discord-token-checker***](https://github.com/Zectxr/discord-token-checker) <br/>
-  A modern React web app to verify Discord tokens and view detailed account information
-- [***Zectxr/Xyphra***](https://github.com/Zectxr/Xyphra) <br/>
-  A lightweight web tool to scan URLs and files for potential security threats
+- [***Grow A Character***](https://growacharacter.vercel.app/) <br/>
+  A generative AI chatbot service that allows users to engage in immersive, human-like conversations with customizable digital characters!
+- [***Thea's AI***](https://askthea.vercel.app/) <br/>
+  A Discord bot chat buddy that can do alot of engagement such as happy, roasting, and engagement!!
 
 <br/>
 
